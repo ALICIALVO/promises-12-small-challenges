@@ -17,7 +17,7 @@
 // -----------------------------------------------------
 
 
-// Challenge 2: Promise Chaining:
+// Challenge 2: Promise Chaining::
 
 // function doubleAfter2Seconds(x) {
 //     return new Promise((resolve, reject) => {
